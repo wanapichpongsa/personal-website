@@ -28,7 +28,7 @@ export default function ParsePage() {
   return (
     <main className="mx-auto w-full max-w-2xl px-3 py-10 sm:px-6 sm:py-16">
       <Link
-        href="/"
+        href="/projects"
         className="animate-rise inline-block px-5 text-muted transition-colors hover:text-foreground"
       >
         ← Back
